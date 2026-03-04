@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アメクミゾレ",
+  "base_artist": "Es",
+  "createdAt": "2026-03-04T16:50:53.594098Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アメクミゾレ",
+      "artist": "Es",
+      "has_synced": false,
+      "path": "select/pl_01_アメクミゾレ_Es.txt"
+    }
+  ]
+}
